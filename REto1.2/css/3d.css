@@ -1,0 +1,414 @@
+
+
+@media screen and (max-width: 400px){
+ .museo {
+	position: relative;
+	width: 320px!important;
+	height: 400px;
+}
+
+
+.logo_peru {
+	display: none;
+}
+
+.mc{
+	display: none
+}
+
+.logotipo{
+	margin: auto!important;
+	float: none!important;
+}
+
+.mc_footer{
+	margin: auto;
+	float: none!important;
+	margin-right: 0px!important;
+}
+
+.info_footer {
+	margin: auto;
+	float: none!important;
+	text-align: center!important;
+	margin-top: 10px
+
+ }
+
+ .culturafooter {
+    margin: 30px 56px!important;
+}
+
+.cabecera {
+    text-align: center;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 640px){
+
+.logo_peru {
+	display: none;
+}
+
+.mc{
+	display: none
+}
+
+.logotipo{
+	margin: auto!important;
+	float: none!important;
+}
+
+.cabecera {
+    text-align: center;
+}
+
+.mc_footer{
+	margin: auto!important;
+	float: none!important;
+}
+
+.info_footer {
+	margin: auto;
+	float: none!important;
+	text-align: center!important;
+	margin-top: 10px
+
+ }
+
+ .culturafooter {
+    margin: 30px 56px!important;
+}
+
+
+}
+
+@media screen and (max-width:1280px){
+ .museo {
+	position: relative;
+	width: 275px;
+	height: 400px;
+}
+
+.cabecera {
+    padding: 0 11px;
+}
+
+.culturafooter {
+    padding: 0 11px!important;
+}
+
+ }
+
+  @media screen and (max-width:1366px){
+ .museo {
+	position: relative;
+	width: 270px;
+	height: 400px;
+}
+ }
+
+ @media screen and (min-width:1440px){
+ .museo {
+	position: relative;
+	width: 300px;
+	height: 400px;
+}
+ }
+
+
+body {
+	margin:0;
+	padding:0;
+	font-family: arial
+}
+
+div#todo {
+    width: 100%;
+    overflow: hidden;
+}
+
+.banner {
+	width: 100%;
+	background: #CAB7A0 url("../imagenes/banner.jpg") no-repeat center;
+	text-align: center;
+
+}
+
+.texto_slogan {
+	width: 340px;
+	margin-top: 40px;
+	margin-bottom: 40px
+}
+
+.cabecera {
+	max-width: 1380px;
+	margin: 10px auto;
+	overflow: hidden;
+}
+
+
+.logotipo{
+	max-width: 345px;
+	float: left;
+}
+
+.text_intro {
+    max-width: 1400px;
+    text-align: center;
+    font-size: 25px;
+    color:#4e73df;
+    margin: 20px;
+    border: 1px solid #4e73df;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    padding: 20px;
+}
+
+.mc{
+	width: 300px;
+	float: right;
+	margin-top: 10px;
+}
+
+.content {
+	max-width: 1380px;
+	margin: 20px auto;
+	overflow: hidden;
+}
+
+.titulo_360, .titulo_3d {
+	clear: both;
+	overflow: hidden;
+	border-bottom: 1px solid #BE8A27;
+	margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.icono360, .icono3d {
+	background: #BE8A27;
+	width: 56px;
+    padding: 12px 8px 3px 9px;
+	float: left
+
+}
+
+.titulo360, .titulo3d {
+	float: left;
+	font-size: 30px;
+	padding-left: 18px;
+    padding-top: 14px;
+}
+
+.content .museo {
+	float: left;
+	margin: 12px 20px 
+}
+
+.mchavin360 {
+	background: url("../imagenes/btn_mchavin.jpg") center;
+	background-size: cover
+}
+
+
+.puruchuco360 {
+	background: url("../imagenes/btn_puruchuco.jpeg") center;
+	background-size: cover
+}
+
+.mnaahp360 {
+	background: url("../imagenes/btn_mnaahp.jpg") center;
+	background-size: cover
+}
+
+.pachacamac360 {
+	background: url("../imagenes/btn_pachacamac.jpg") center;
+	background-size: cover
+}
+
+.mariategui360 {
+	background: url("../imagenes/btn_mariategui.jpg") center;
+	background-size: cover
+}
+
+.ctello360 {
+	background: url("../imagenes/btn_paracas.jpg") center;
+	background-size: cover
+}
+
+.bermudez360 {
+	background: url("../imagenes/btn_ica.jpg") center;
+	background-size: cover
+}
+
+.libertador360 {
+	background: url("../imagenes/btn_libertador.jpg") center;
+	background-size: cover
+}
+
+.lum360 {
+	background: url("../imagenes/lum.jpg") center;
+	background-size: cover
+}
+
+
+.pachacamac3d {
+	background: url("../imagenes/btn_pachacamac3d.jpg") center;
+	background-size: cover
+}
+
+
+.virreinal3d {
+	background: url("../imagenes/btn_virreinal3d.jpg") center;
+	background-size: cover
+}
+
+.republica3d {
+	background: url("../imagenes/btn_republica3d.jpg") center;
+	background-size: cover
+}
+
+
+.chavin3d {
+	background: url("../imagenes/btn_chavin3d.jpg") center;
+	background-size: cover
+}
+
+.italiano3d {
+	background: url("../imagenes/btn_italiano3d.jpg") center;
+	background-size: cover
+}
+
+.puruchuco3d {
+	background: url("../imagenes/btn_puruchuco3d.jpg") center;
+	background-size: cover
+}
+
+.museo .titulo_museo {
+	position: absolute;
+	bottom:0px;
+	font-size: 22px;
+	margin: 10px 22px;
+	z-index: 3
+}
+
+.museo .nombre_museo {
+	color: #ffffff;
+	text-decoration: none;
+	padding: 0
+}
+
+
+.museo .titulo_museo a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.museo .subtitulo_museo {
+    color: ffffff;
+    bottom: 0px;
+    font-size: 16px;
+    padding: 8px 0;
+    background: #4e73df;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.museo .subtitulo_museo a {
+	display:block;
+}
+
+.degradado {
+	background: url("../imagenes/degradado.png");
+	width: 100%;
+	height: 255px;
+	position: absolute;
+	bottom:0px;
+	left:0px;
+	z-index: 2
+}
+
+
+
+.footer {
+	background: #000000;
+	color: #ffffff;
+	overflow: hidden;
+	font-size: 11px;
+	width: 100%
+}
+
+.culturafooter {
+	max-width: 1380px;
+	overflow: hidden;
+	margin: 30px auto
+}
+
+
+.mc_footer{
+	width: 250px;
+	float: left;
+	margin-right: 20px
+}
+
+.info_footer {
+	float: left;
+	line-height: 15px;
+}
+
+.logo_peru {
+	background:url("../imagenes/logo_MC_footer.png") no-repeat center;
+	width: 232px;
+	height: 49px;
+	float: right;
+}
+
+
+.btn_anteriores {
+	background: #4e73df;
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+    padding: 20px 20px 10px 20px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    margin: 0px auto 30px auto;
+}
+
+.btn_anteriores a {
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 22px;
+	display: block;
+}
+
+
+.aviso_versiones {
+	margin: auto;
+	max-width: 235px;
+	overflow:hidden;
+}
+
+.aviso_versiones i, .aviso_versiones img  {
+    margin:0;
+    font-size:14px;
+	float:left;
+	text-align:right;
+}
+
+.aviso_versiones i {
+    padding-top: 5px;
+    color: #ffd586;
+    padding-right: 6px;
+    margin-top: 2px;
+}
